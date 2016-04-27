@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "IndentLua: Reindent Lua code",
+        "command": "indent_lua"
+    }
+]
+
